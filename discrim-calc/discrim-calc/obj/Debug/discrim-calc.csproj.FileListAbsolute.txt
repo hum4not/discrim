@@ -1,0 +1,11 @@
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\bin\Debug\discrim-calc.exe.config
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\bin\Debug\discrim-calc.exe
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\bin\Debug\discrim-calc.pdb
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim-calc.csproj.AssemblyReference.cache
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim-calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim_calc.Form1.resources
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim_calc.Properties.Resources.resources
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim-calc.csproj.GenerateResource.cache
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim-calc.csproj.CoreCompileInputs.cache
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim-calc.exe
+C:\Users\humanot\source\repos\discrim-calc\discrim-calc\obj\Debug\discrim-calc.pdb
